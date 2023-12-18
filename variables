@@ -1,0 +1,10 @@
+int pageNumber = 3;
+float healthStatus = 99.9f;
+char firstLetter = 'A';
+string streetName = "primrose street";
+bool isDeadPlayer = false;
+double armorStatus = 49.99;
+byte apartmentNumber = 6;
+short outdoorTemperature = -15;
+long streetIndex = 609065;
+sbyte numberOfFloors = 25;
